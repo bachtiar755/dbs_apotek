@@ -1,0 +1,120 @@
+[{
+  "_id": {
+    "$oid": "664debd83a636f1469117b7b"
+  },
+  "nama": "Paracetamol",
+  "harga": 5000,
+  "kategori": "Penghilang Nyeri",
+  "stok": 100,
+  "tanggal_kadaluarsa": {
+    "$date": "2025-12-31T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "664debd83a636f1469117b7c"
+  },
+  "nama": "Vitamin C",
+  "harga": 10000,
+  "kategori": "Suplemen",
+  "stok": 200,
+  "tanggal_kadaluarsa": {
+    "$date": "2024-06-30T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "664debd83a636f1469117b7d"
+  },
+  "nama": "Amoxicillin",
+  "harga": 15000,
+  "kategori": "Antibiotik",
+  "stok": 50,
+  "tanggal_kadaluarsa": {
+    "$date": "2023-11-30T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "664debd83a636f1469117b7e"
+  },
+  "nama": "Ibuprofen",
+  "harga": 7000,
+  "kategori": "Anti-inflamasi",
+  "stok": 80,
+  "tanggal_kadaluarsa": {
+    "$date": "2025-07-31T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "664debd83a636f1469117b7f"
+  },
+  "nama": "Antasida",
+  "harga": 4000,
+  "kategori": "Antasida",
+  "stok": 150,
+  "tanggal_kadaluarsa": {
+    "$date": "2023-09-30T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "664debd83a636f1469117b80"
+  },
+  "nama": "Cetrizine",
+  "harga": 6000,
+  "kategori": "Antihistamin",
+  "stok": 120,
+  "tanggal_kadaluarsa": {
+    "$date": "2024-05-31T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "664debd83a636f1469117b81"
+  },
+  "nama": "Loperamide",
+  "harga": 3000,
+  "kategori": "Antidiare",
+  "stok": 70,
+  "tanggal_kadaluarsa": {
+    "$date": "2024-08-30T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "664debd83a636f1469117b82"
+  },
+  "nama": "Salep Betametason",
+  "harga": 20000,
+  "kategori": "Kortikosteroid",
+  "stok": 40,
+  "tanggal_kadaluarsa": {
+    "$date": "2024-11-30T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "664debd83a636f1469117b83"
+  },
+  "nama": "Dekstrometorfan",
+  "harga": 5000,
+  "kategori": "Antitusif",
+  "stok": 90,
+  "tanggal_kadaluarsa": {
+    "$date": "2025-01-31T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "664debd83a636f1469117b84"
+  },
+  "nama": "Aspirin",
+  "harga": 8000,
+  "kategori": "Antikoagulan",
+  "stok": 60,
+  "tanggal_kadaluarsa": {
+    "$date": "2023-12-31T00:00:00.000Z"
+  }
+}]

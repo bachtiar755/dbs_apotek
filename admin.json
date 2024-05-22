@@ -1,0 +1,24 @@
+[{
+  "_id": {
+    "$oid": "664ded7773d2e713b7117b7e"
+  },
+  "username": "admin1",
+  "password": "321",
+  "email": "admin1@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "664ded7773d2e713b7117b7f"
+  },
+  "username": "admin2",
+  "password": "654",
+  "email": "admin2@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "664ded7773d2e713b7117b80"
+  },
+  "username": "admin3",
+  "password": "987",
+  "email": "admin3@gmail.com"
+}]
