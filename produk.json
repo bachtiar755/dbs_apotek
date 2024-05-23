@@ -1,120 +1,120 @@
 [{
   "_id": {
-    "$oid": "664debd83a636f1469117b7b"
+    "$oid": "664f01293f0102796e117b7b"
   },
-  "nama": "Paracetamol",
-  "harga": 5000,
-  "kategori": "Penghilang Nyeri",
-  "stok": 100,
-  "tanggal_kadaluarsa": {
-    "$date": "2025-12-31T00:00:00.000Z"
-  }
+  "no_id": "1",
+  "nama": "Paramex",
+  "kategori": "P3K",
+  "harga": 8200,
+  "deskripsi": "PARAMEX merupakan obat yang dapat digunakan untuk meringankan sakit kepala dan sakit gigi",
+  "tanggalKedaluwarsa": "2025-12-31",
+  "memerlukanResep": false
 },
 {
   "_id": {
-    "$oid": "664debd83a636f1469117b7c"
+    "$oid": "664f01293f0102796e117b7c"
   },
-  "nama": "Vitamin C",
-  "harga": 10000,
-  "kategori": "Suplemen",
-  "stok": 200,
-  "tanggal_kadaluarsa": {
-    "$date": "2024-06-30T00:00:00.000Z"
-  }
-},
-{
-  "_id": {
-    "$oid": "664debd83a636f1469117b7d"
-  },
-  "nama": "Amoxicillin",
-  "harga": 15000,
-  "kategori": "Antibiotik",
-  "stok": 50,
-  "tanggal_kadaluarsa": {
-    "$date": "2023-11-30T00:00:00.000Z"
-  }
-},
-{
-  "_id": {
-    "$oid": "664debd83a636f1469117b7e"
-  },
-  "nama": "Ibuprofen",
-  "harga": 7000,
-  "kategori": "Anti-inflamasi",
-  "stok": 80,
-  "tanggal_kadaluarsa": {
-    "$date": "2025-07-31T00:00:00.000Z"
-  }
-},
-{
-  "_id": {
-    "$oid": "664debd83a636f1469117b7f"
-  },
-  "nama": "Antasida",
-  "harga": 4000,
-  "kategori": "Antasida",
-  "stok": 150,
-  "tanggal_kadaluarsa": {
-    "$date": "2023-09-30T00:00:00.000Z"
-  }
-},
-{
-  "_id": {
-    "$oid": "664debd83a636f1469117b80"
-  },
-  "nama": "Cetrizine",
-  "harga": 6000,
-  "kategori": "Antihistamin",
-  "stok": 120,
-  "tanggal_kadaluarsa": {
-    "$date": "2024-05-31T00:00:00.000Z"
-  }
-},
-{
-  "_id": {
-    "$oid": "664debd83a636f1469117b81"
-  },
-  "nama": "Loperamide",
-  "harga": 3000,
-  "kategori": "Antidiare",
-  "stok": 70,
-  "tanggal_kadaluarsa": {
-    "$date": "2024-08-30T00:00:00.000Z"
-  }
-},
-{
-  "_id": {
-    "$oid": "664debd83a636f1469117b82"
-  },
-  "nama": "Salep Betametason",
+  "no_id": "2",
+  "nama": "Termorex Plus",
+  "kategori": "P3K",
   "harga": 20000,
-  "kategori": "Kortikosteroid",
-  "stok": 40,
-  "tanggal_kadaluarsa": {
-    "$date": "2024-11-30T00:00:00.000Z"
-  }
+  "deskripsi": "Sirup obat flu yang disertai batuk tanpa alkohol dengan rasa jeruk yang disukai anak-anak",
+  "tanggalKedaluwarsa": "2024-11-30",
+  "memerlukanResep": false
 },
 {
   "_id": {
-    "$oid": "664debd83a636f1469117b83"
+    "$oid": "664f01293f0102796e117b7d"
   },
-  "nama": "Dekstrometorfan",
-  "harga": 5000,
-  "kategori": "Antitusif",
-  "stok": 90,
-  "tanggal_kadaluarsa": {
-    "$date": "2025-01-31T00:00:00.000Z"
-  }
+  "no_id": "3",
+  "nama": "Co Amoxiclav",
+  "kategori": "Farmasi & Suplemen Kesehatan",
+  "harga": 23400,
+  "deskripsi": "CO AMOXICLAV untuk mengobati berbagai infeksi bakteri dengan menghancurkan dinding sel bakteri dan mencegah enzim beta-laktamase bakteri merusak amoxicillin",
+  "tanggalKedaluwarsa": "2023-08-15",
+  "memerlukanResep": true
 },
 {
   "_id": {
-    "$oid": "664debd83a636f1469117b84"
+    "$oid": "664f01293f0102796e117b7e"
   },
-  "nama": "Aspirin",
-  "harga": 8000,
-  "kategori": "Antikoagulan",
-  "stok": 60,
-  "tanggal_kadaluarsa": {
-    "$date": "2023-12-31T00:00:00.000Z"
-  }
+  "no_id": "4",
+  "nama": "NOPRES",
+  "kategori": "Farmasi & Suplemen Kesehatan",
+  "harga": 95000,
+  "deskripsi": "NOPRES adalah obat yang digunakan untuk mengobati tekanan darah tinggi",
+  "tanggalKedaluwarsa": "2024-01-30",
+  "memerlukanResep": true
+},
+{
+  "_id": {
+    "$oid": "664f01293f0102796e117b7f"
+  },
+  "no_id": "5",
+  "nama": "Lisinopril Dihydrate",
+  "kategori": "Farmasi & Suplemen Kesehatan",
+  "harga": 7100,
+  "deskripsi": "Lisinopril Dihydrate obat yang digunakan untuk mengobati tekanan darah tinggi , gagal jantung, dan meningkatkan kelangsungan hidup setelah serangan jantung, Obat ini termasuk dalam kelas inhibitor enzim pengubah angiotensin (ACE inhibitor)",
+  "tanggalKedaluwarsa": "2024-06-30",
+  "memerlukanResep": true
+},
+{
+  "_id": {
+    "$oid": "664f01293f0102796e117b80"
+  },
+  "no_id": "6",
+  "nama": "GLUCOVANCE",
+  "kategori": "Farmasi & Suplemen Kesehatan",
+  "harga": 685368,
+  "deskripsi": "GLUCOVANCE adalah obat yang digunakan untuk mengobati diabetes mellitus tipe 2",
+  "tanggalKedaluwarsa": "2024-01-21",
+  "memerlukanResep": true
+},
+{
+  "_id": {
+    "$oid": "664f01293f0102796e117b81"
+  },
+  "no_id": "7",
+  "nama": "FLUTIAS 125 INHALER",
+  "kategori": "Farmasi & Suplemen Kesehatan",
+  "harga": 164811,
+  "deskripsi": "FLUTIAS 125 INHALER adalah obat yang digunakan untuk mengobati asma dan penyakit paru obstruktif kronis",
+  "tanggalKedaluwarsa": "2024-03-21",
+  "memerlukanResep": true
+},
+{
+  "_id": {
+    "$oid": "664f01293f0102796e117b82"
+  },
+  "no_id": "8",
+  "nama": "Paracetamol",
+  "kategori": "P3K",
+  "harga": 19500,
+  "deskripsi": "Paracetamol adalah obat yang umumnya digunakan untuk meredakan demam dan mengurangi rasa sakit ringan hingga sedang, seperti sakit kepala, sakit gigi, nyeri otot, dan nyeri menstruasi",
+  "tanggal_Kedaluwarsa": "2025-12-09",
+  "memerlukan_Resep": false
+},
+{
+  "_id": {
+    "$oid": "664f01293f0102796e117b83"
+  },
+  "no_id": "9",
+  "nama": "PROMAG",
+  "kategori": "P3K",
+  "harga": 9500,
+  "deskripsi": "PROMAG adalah obat yang digunakan untuk mengatasi gangguan pencernaan, seperti nyeri lambung, kembung, mulas, dan gangguan asam lambung.",
+  "tanggalKedaluwarsa": "2026-12-03",
+  "memerlukanResep": false
+},
+{
+  "_id": {
+    "$oid": "664f01293f0102796e117b84"
+  },
+  "no_id": "10",
+  "nama": "KOMIX Herbal",
+  "kategori": "P3K",
+  "harga": 11000,
+  "deskripsi": "KOMIX Herbal adalah suplemen herbal yang digunakan sebagai pengganti obat batuk.",
+  "tanggalKedaluwarsa": "2024-07-19",
+  "memerlukanResep": false
 }]
