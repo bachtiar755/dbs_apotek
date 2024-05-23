@@ -1,24 +1,30 @@
 [{
   "_id": {
-    "$oid": "664ded7773d2e713b7117b7e"
+    "$oid": "664f02d83f0102796e117b88"
   },
+  "no_id": "1",
   "username": "admin1",
-  "password": "321",
-  "email": "admin1@gmail.com"
+  "email": "admin1@gmail.com",
+  "password": "123",
+  "role": "admin"
 },
 {
   "_id": {
-    "$oid": "664ded7773d2e713b7117b7f"
+    "$oid": "664f02d83f0102796e117b89"
   },
+  "no_id": "2",
   "username": "admin2",
-  "password": "654",
-  "email": "admin2@gmail.com"
+  "email": "admin2@gmail.com",
+  "password": "456",
+  "role": "admin"
 },
 {
   "_id": {
-    "$oid": "664ded7773d2e713b7117b80"
+    "$oid": "664f02d83f0102796e117b8a"
   },
+  "no_id": "3",
   "username": "admin3",
-  "password": "987",
-  "email": "admin3@gmail.com"
+  "email": "admin3@gmail.com",
+  "password": "789",
+  "role": "admin"
 }]
